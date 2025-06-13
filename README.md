@@ -36,8 +36,9 @@ If you're starting from your local system and want to move the binary to your VP
 ```scp ~/Downloads/datagram-cli-x86_64-linux username@your_server_ip:/root/ ```
 Or, if you've stored the binary in this GitHub repo, you can download it directly:
 
-wget https://raw.githubusercontent.com/tnetone1/Datagram-Network/main/datagram-cli-x86_64-linux
-chmod +x datagram-cli-x86_64-linux
+```wget https://raw.githubusercontent.com/tnetone1/Datagram-Network/main/datagram-cli-x86_64-linux```
+
+```chmod +x datagram-cli-x86_64-linux```
 
 ---
 
