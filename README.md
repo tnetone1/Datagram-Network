@@ -37,24 +37,33 @@ Or, if you've stored the binary in this GitHub repo, you can download it directl
 
 wget https://raw.githubusercontent.com/tnetone1/Datagram-Network/main/datagram-cli-x86_64-linux
 chmod +x datagram-cli-x86_64-linux
-3. Make the Binary Executable
+
+---
+
+### 3. Make the Binary Executable
 SSH into your VPS and set execute permission:
 
 
 chmod +x datagram-cli-x86_64-linux
-4. Get Your License Key
+
+---
+
+
+### 4. Get Your License Key
 Go to your Datagram Wallet Licenses.
 
 Copy your license key from the Licenses tab.
 
-5. Run the Node
+---
+
+### 5. Run the Node
 Start the node using your license key:
 
 
 ./datagram-cli-x86_64-linux run --key YOUR-LICENSE-KEY
 Replace YOUR-LICENSE-KEY with the one you got from your dashboard.
 
-6. Verify Node Status
+### 6. Verify Node Status
 After running, go to your dashboard — your node should show as "Connected".
 
 As long as it remains online, you’ll earn 250 points every 6 hours.
