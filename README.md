@@ -55,6 +55,7 @@ SSH into your VPS and set execute permission:
 Go to your Datagram Wallet Licenses.
 
 Copy your license key from the Licenses tab.
+Refer This Image - ![image](https://github.com/user-attachments/assets/f24fd07e-6621-4bb7-a4d3-437b9c3a86e3)
 
 ---
 
