@@ -63,7 +63,7 @@ Refer This Image - ![image](https://github.com/user-attachments/assets/f24fd07e-
 Start the node using your license key:
 
 
-```./datagram-cli-x86_64-linux run --key YOUR-LICENSE-KEY```
+```./datagram-cli-x86_64-linux run YOUR-LICENSE-KEY```
 Replace YOUR-LICENSE-KEY with the one you got from your dashboard.
 
 ---
