@@ -74,6 +74,8 @@ Replace YOUR-LICENSE-KEY with the one you got from your dashboard.
 After running, go to your dashboard — your node should show as "Connected".
 
 On VPS/WSL You can refer this logs
+
+
 ![image](https://github.com/user-attachments/assets/a9baed39-0f2f-4c55-9614-a8b5e5045913)
 
 As long as it remains online, you’ll earn 250 points every 6 hours.
