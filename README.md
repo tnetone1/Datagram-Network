@@ -66,7 +66,7 @@ Start the node using your license key:
 ```./datagram-cli-x86_64-linux run -- -key <YOUR-LICENSE-KEY>```
 
 
-Replace YOUR-LICENSE-KEY with the one you got from your dashboard.
+Replace YOUR-LICENSE-KEY with the one you got from your dashboard and Remove < >.
 
 ---
 
